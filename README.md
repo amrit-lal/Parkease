@@ -1,7 +1,7 @@
 
-# 🅿️ Paspark – Parking Management System
+# 🅿️ Parkease – Parking Management System
 
-Paspark is a complete web-based Parking Management System built using **PHP**, **MySQL**, and **Bootstrap**. It offers separate modules for **Users**, **Admins**, and **Guards**, ensuring smooth parking slot booking, management, and verification.
+Parkease is a complete web-based Parking Management System built using **PHP**, **MySQL**, and **Bootstrap**. It offers separate modules for **Users**, **Admins**, and **Guards**, ensuring smooth parking slot booking, management, and verification.
 
 
 ## ✅ Features
